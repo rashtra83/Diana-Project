@@ -1,0 +1,49 @@
+.ConsultWithWellnessExperts{
+width: 375px;
+height: 421px;
+left: 0px;
+background: linear-gradient(270deg, #DADAE4 0.25%, #EEEEF0 24.33%, #F8F8F8 52.08%, #FEFEFE 100%);
+}
+
+.ConsultWithWellnessExpertsTitle{
+width: 335px;
+height: 86px;
+padding: 34px 13px 22px 27px;
+font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 134.8%;
+color: #000000;
+}
+
+.ConsultWithWellnessExpertsContent{
+    width: 308px;
+height: 145px;
+padding:  0 37px 33px 30px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 206.5%;
+/* or 29px */
+
+
+color: rgba(0, 0, 0, 0.8);
+
+}
+
+.ConsultWithWellnessExpertsButton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 45px;
+    margin-left: 30px;
+    width: 315px;
+    height: 66px;
+    margin: 0 30px 35px 30px;
+    background: linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%);
+    box-shadow: 0px 2px 16px rgba(71, 222, 255, 0.33);
+    border-radius: 70px;
+}

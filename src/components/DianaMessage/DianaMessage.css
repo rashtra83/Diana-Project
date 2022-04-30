@@ -1,0 +1,18 @@
+.DianaMessage{
+width: 375px;
+height: 373px;
+left: 0px;
+background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 100%);
+}
+
+.Message{
+width: 274px;
+height: 220px;
+padding: 93px 54px 60px 47px;
+font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 33px;
+line-height: 134.8%;
+color: rgba(0, 0, 0, 0.8);
+}

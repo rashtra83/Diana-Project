@@ -1,23 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import AboutDiana from "./components/AboutDiana/AboutDiana";
+import WhatMakesUsDifferent from "./components/WhatMakesUsDifferent/WhatMakesUsDifferent";
+import LiberateYourEveryDayWellness from "./components/LiberateYourEverydayWellness/LiberateYourEverydayWellness";
+import UpgradeYourSelfCare from "./components/UpgradeYourSelfCare/UpgradeYourSelfCare";
+import TrackYourMood from "./components/TrackYourMood/TrackYourMood";
+import TrackYourPeriod from "./components/TrackYourPeriod/TrackYourPeriod";
+import ConsultWithWellnessExperts from "./components/ConsultWithWellnessExperts/ConsultWithWellnessExperts";
+import GetYourPersonalisedPeriodBox from "./components/GetYourPersonalisedPeriodBox/GetYourPersonalisedPeriodBox";
+import DianaMessage from "./components/DianaMessage/DianaMessage";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <AboutDiana></AboutDiana>
+      <WhatMakesUsDifferent></WhatMakesUsDifferent>
+      <LiberateYourEveryDayWellness></LiberateYourEveryDayWellness>
+      <UpgradeYourSelfCare></UpgradeYourSelfCare>
+      <TrackYourMood></TrackYourMood>
+      <TrackYourPeriod></TrackYourPeriod>
+      <ConsultWithWellnessExperts></ConsultWithWellnessExperts>
+      <GetYourPersonalisedPeriodBox></GetYourPersonalisedPeriodBox>
+      <DianaMessage></DianaMessage>
+      <Footer></Footer>
     </div>
   );
 }

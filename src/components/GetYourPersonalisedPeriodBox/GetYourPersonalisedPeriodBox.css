@@ -1,0 +1,52 @@
+.GetYourPersonalisedPeriodBox{
+width: 375px;
+height: 646px;
+left: 0px;
+background: #F66E6E;
+}
+
+.GetYourPersonalisedPeriodBoxTitle {
+width: 335px;
+height: 86px;
+padding: 39px 7px 0 33px;
+font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 134.8%;
+/* or 43px */
+
+
+color: rgba(255, 255, 255, 0.8);
+}
+
+.GetYourPersonalisedPeriodBoxImage{
+width: 387px;
+height: 290px;
+}
+
+.GetYourPersonalisedPeriodBoxContent{
+    width: 308px;
+height: 145px;
+padding: 0 34px 0px 33px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 206.5%;
+/* or 29px */
+
+
+color: rgba(255, 255, 255, 0.8);
+}
+
+.GetYourPersonalisedPeriodBoxButton{
+    width: 287px;
+height: 43px;
+margin-left: 44px;
+background-color: white;
+border-radius: 27px;
+display: flex;
+justify-content: center;
+align-items: center;
+}

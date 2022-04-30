@@ -1,0 +1,52 @@
+.TrackYourPeriod{
+width: 375px;
+height: 394px;
+left: 0px;
+background: linear-gradient(176.88deg, #F3B8BC 2.58%, #FFDAD4 93.07%);
+}
+
+.TrackYourPeriodTitle {
+    width: 253px;
+height: 43px;
+left: 30px;
+padding: 39px 92px 21px 30px;
+font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 134.8%;
+/* or 43px */
+
+
+color: #000000;
+}
+
+.TrackYourPeriodContent{
+width: 308px;
+height: 145px;
+padding: 0 34px 33px 33px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 206.5%;
+/* or 29px */
+
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.TrackYourPeriodButton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 33px;
+    width: 315px;
+    height: 66px;
+    left: 33px;
+    
+    background: linear-gradient(297.28deg, #F66E6E 67.01%, rgba(246, 110, 110, 0) 123.71%);
+    filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
+    border-radius: 70px;
+}

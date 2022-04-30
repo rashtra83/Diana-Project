@@ -1,0 +1,48 @@
+.whatMakesUsDifferentDiv{
+width: 375px;
+height: 841px;
+left: 0px;
+background: linear-gradient(165.41deg, #D99EC9 0%, rgba(246, 240, 196, 0) 100%);
+}
+
+.heading{
+width: 295px;
+height: 33px;
+left: 34px;
+padding: 39px 47px 37px 34px;
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 33px;
+color: #1B1B50
+}
+
+.subHeading{
+width: 335px;
+height: 86px;
+left: 34px;
+padding: 0 6px 29px 34px;
+font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 134.8%;
+color: #1B1B50;
+}
+
+.content{
+width: 308px;
+height: 575px;
+left: 34px;
+font-family: 'Poppins';
+font-style: normal;
+padding: 0 33px 42px 34px;
+font-weight: 300;
+font-size: 14px;
+line-height: 180%;
+/* or 25px */
+
+
+color: #1B1B50;
+
+}
